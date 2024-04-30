@@ -1,2 +1,2 @@
 # sample-repo
-Git updated
+Git update
